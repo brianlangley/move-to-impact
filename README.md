@@ -1,6 +1,6 @@
 # Move to Impact Website Redesign
 
-This repository contains the code and assets for the Move to Impact website redesign project, undertaken as part of the A Bit Academy school program. The goal of this project is to enhance the user experience and visual appeal of the platform, specifically focusing on the product landing page, "Prepare for CSRD."
+This repository contains the code and assets for the Move to Impact website redesign project, undertaken as part of the A Bit Academy school programme. The goal of this project is to enhance the user experience and visual appeal of the platform, specifically focusing on the product landing page, "Prepare for CSRD."
 
 ## Project Information
 
