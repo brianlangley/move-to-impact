@@ -60,6 +60,26 @@ The following technologies will be used for the Move to Impact website redesign:
 - GSAP: The GreenSock Animation Platform, a JavaScript library for creating high-performance animations.
 - Figma: A design tool used for creating and collaborating on the visual aspects of the redesign.
 
+## Credits
+
+The Lambiek Project is the result of the collaborative effort of the following individuals from the Bit Academy:
+
+Brian Langley
+[Linkedin](https://www.linkedin.com/in/bel97/)
+[Github](https://github.com/brianlangley)
+
+Batuhan Yumak
+[Linkedin](https://www.linkedin.com/in/batuhanyumak/)
+[Github](https://github.com/BatuhanYumak)
+
+Christian de Winter
+[Linkedin](https://www.linkedin.com/in/christian-de-winter-367652256/)
+
+Emanuel Eguizabal Ascencio
+[Linkedin](https://www.linkedin.com/in/emanuel-eguizabal-ascencio-454948253/)
+[Github](https://github.com/EmanuelEgui)
+
+
 ## Notice
 
 Please be aware that this project is not affiliated with the original website of Move to Impact. It is a school project and has not been adopted or utilized by Move to Impact. You can access the original website [here](https://movetoimpact.com/tools-services/csrd-consulting/), and all rights belong to their respective owners.
