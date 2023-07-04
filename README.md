@@ -52,6 +52,10 @@ User stories provided by Amber Kesselaer, Move to Impact's marketing manager:
 
 A wireframe has been created to visualise the layout and structure of the redesigned landing page. Also available as a high-quality PDF in the assets folder.
 
+## Screenshot
+
+![Screenshot](./assets/move-to-impact.png)
+
 ## Tech Stack
 
 The following technologies will be used for the Move to Impact website redesign:
