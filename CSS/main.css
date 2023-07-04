@@ -1,0 +1,77 @@
+/* Custom fonts MADE Tommy Soft */
+@font-face {
+    font-family: 'TommySoftBold';
+    src: url(../assets/font/MADE\ Tommy\ Soft\ Bold\ PERSONAL\ USE.otf);
+}
+
+@font-face {
+    font-family: 'TommySoftRegular';
+    src: url(../assets/font/MADE\ Tommy\ Soft\ Regular\ PERSONAL\ USE.otf);
+}
+
+.font_main {
+    font-family: 'TommySoftBold';
+}
+
+.font_sub {
+    font-family: 'TommySoftRegular';
+}
+
+/* Standard rules */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+    transform: translateY(100%);
+}
+
+/* Custom classes */
+.nav-link {
+    color: #6B7280;
+}
+
+.nav-link:hover {
+    color: #24ace2;
+}
+
+#landing video {
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+#introVid {
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+#imgStepsContainer {
+    margin-top: -25vh;
+}
+
+.slide img {
+    max-width: 500px;
+    height: 50px;
+    animation: slide 120s linear infinite;
+}
+
+.slide-track {
+    width: 100%;
+    display: flex;
+    gap: 3em;
+    overflow: hidden;
+}
+
+@keyframes slide {
+    0% {
+        transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+        transform: translate3d(-7472px, 0, 0);
+    }
+}
