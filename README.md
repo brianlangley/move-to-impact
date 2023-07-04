@@ -48,7 +48,9 @@ User stories provided by Amber Kesselaer, Move to Impact's marketing manager:
 
 ## Wireframe
 
-A wireframe has been created to visualize the layout and structure of the redesigned landing page. You can find the wireframe ![Wireframe](./assets/Wireframe.png) (also available as a high-quality PDF in the assets folder).
+![Wireframe](./assets/Wireframe.png)
+
+A wireframe has been created to visualise the layout and structure of the redesigned landing page. Also available as a high-quality PDF in the assets folder.
 
 ## Tech Stack
 
